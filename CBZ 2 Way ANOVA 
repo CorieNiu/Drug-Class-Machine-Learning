@@ -1,0 +1,105 @@
+# Assignment File
+# User: corieniu Save Date: Thu Oct 03 10:28:28 GMT-05:00 2019
+#
+Module:	2-Factor ANOVA
+Group 1 Label:	Group 1
+Group 2 Label:	Group 2
+Group 3 Label:	Group 3
+#
+Sample Index	Sample Name	Group Assignment
+1	Female ACE H1	Exclude	Exclude
+2	Female ACE H2	Exclude	Exclude
+3	Female ACE H3	Exclude	Exclude
+4	Female ACE L1	Exclude	Exclude
+5	Female ACE L2	Exclude	Exclude
+6	Female ACE L3	Exclude	Exclude
+7	Female CBZ C1	Group 1	Group 1
+8	Female CBZ C2	Group 1	Group 1
+9	Female CBZ C3	Group 1	Group 1
+10	Female CBZ H1	Group 1	Group 3
+11	Female CBZ H2	Group 1	Group 3
+12	Female CBZ H3	Group 1	Group 3
+13	Female CBZ L1	Group 1	Group 2
+14	Female CBZ L2	Group 1	Group 2
+15	Female CBZ L3	Group 1	Group 2
+16	Female GEM-MIX C1	Exclude	Exclude
+17	Female GEM-MIX C2	Exclude	Exclude
+18	Female GEM-MIX C3	Exclude	Exclude
+19	Female GEM H1	Exclude	Exclude
+20	Female GEM H2	Exclude	Exclude
+21	Female GEM H3	Exclude	Exclude
+22	Female GEM L1	Exclude	Exclude
+23	Female GEM L2	Exclude	Exclude
+24	Female GEM L3	Exclude	Exclude
+25	Female MIX H1	Exclude	Exclude
+26	Female MIX H2	Exclude	Exclude
+27	Female MIX H3	Exclude	Exclude
+28	Female MIX L1	Exclude	Exclude
+29	Female MIX L2	Exclude	Exclude
+30	Female MIX L3	Exclude	Exclude
+31	Female VEN-ACE C1	Exclude	Exclude
+32	Female VEN-ACE C2	Exclude	Exclude
+33	Female VEN-ACE C3	Exclude	Exclude
+34	Female VEN H1	Exclude	Exclude
+35	Female VEN H2	Exclude	Exclude
+36	Female VEN H3	Exclude	Exclude
+37	Female VEN L1	Exclude	Exclude
+38	Female VEN L2	Exclude	Exclude
+39	Female VEN L3	Exclude	Exclude
+40	Female WWE C1	Exclude	Exclude
+41	Female WWE C2	Exclude	Exclude
+42	Female WWE C3	Exclude	Exclude
+43	Female WWE H1	Exclude	Exclude
+44	Female WWE H2	Exclude	Exclude
+45	Female WWE H3	Exclude	Exclude
+46	Female WWE L1	Exclude	Exclude
+47	Female WWE L2	Exclude	Exclude
+48	Female WWE L3	Exclude	Exclude
+49	Male ACE H1	Exclude	Exclude
+50	Male ACE H2	Exclude	Exclude
+51	Male ACE H3	Exclude	Exclude
+52	Male ACE L1	Exclude	Exclude
+53	Male ACE L2	Exclude	Exclude
+54	Male ACE L3	Exclude	Exclude
+55	Male CBZ C1	Group 2	Group 1
+56	Male CBZ C2	Group 2	Group 1
+57	Male CBZ C3	Group 2	Group 1
+58	Male CBZ H1	Group 2	Group 3
+59	Male CBZ H2	Group 2	Group 3
+60	Male CBZ H3	Group 2	Group 3
+61	Male CBZ L1	Group 2	Group 2
+62	Male CBZ L2	Group 2	Group 2
+63	Male CBZ L3	Group 2	Group 2
+64	Male GEM-MIX C1	Exclude	Exclude
+65	Male GEM-MIX C2	Exclude	Exclude
+66	Male GEM-MIX C3	Exclude	Exclude
+67	Male GEM H1	Exclude	Exclude
+68	Male GEM H2	Exclude	Exclude
+69	Male GEM H3	Exclude	Exclude
+70	Male GEM L1	Exclude	Exclude
+71	Male GEM L2	Exclude	Exclude
+72	Male GEM L3	Exclude	Exclude
+73	Male MIX H1	Exclude	Exclude
+74	Male MIX H2	Exclude	Exclude
+75	Male MIX H3	Exclude	Exclude
+76	Male MIX L1	Exclude	Exclude
+77	Male MIX L2	Exclude	Exclude
+78	Male MIX L3	Exclude	Exclude
+79	Male VEN-ACE C1	Exclude	Exclude
+80	Male VEN-ACE C2	Exclude	Exclude
+81	Male VEN-ACE C3	Exclude	Exclude
+82	Male VEN H1	Exclude	Exclude
+83	Male VEN H2	Exclude	Exclude
+84	Male VEN H3	Exclude	Exclude
+85	Male VEN L1	Exclude	Exclude
+86	Male VEN L2	Exclude	Exclude
+87	Male VEN L3	Exclude	Exclude
+88	Male WWE C1	Exclude	Exclude
+89	Male WWE C2	Exclude	Exclude
+90	Male WWE C3	Exclude	Exclude
+91	Male WWE H1	Exclude	Exclude
+92	Male WWE H2	Exclude	Exclude
+93	Male WWE H3	Exclude	Exclude
+94	Male WWE L1	Exclude	Exclude
+95	Male WWE L2	Exclude	Exclude
+96	Male WWE L3	Exclude	Exclude
